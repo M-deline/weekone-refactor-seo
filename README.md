@@ -6,9 +6,10 @@ First Challenge Homework for week one
 - This project was built as a way to use and apply basic knowledge on CSS and HTML to solidify what I knew. This project shows the importance of using alt descriptions for accessability purposes and the importance of knowing CSS and HTML since some of the code was uncessary to have in the first place. 
 - I learned how to write alt attributes and how to fix a broken nav link. I also learned the importance of making sure the code is concise. This is because if the code is long or has multiple classes and IDs, it can make it difficult to keep track of everything that is going on. So if there is only the necessary code that makes the website run correctly and has all the elements that is wanted.
 ## Deployment 
-[link] (file:///Users/madelinekovanda/bootcamp/challenges/weekone-refactor-seo/assets/index.html)
+(https://github.com/M-deline/weekone-refactor-seo)
 
 ## Link to website
+(https://m-deline.github.io/weekone-refactor-seo/#social-media-marketing)
 
 ## Screenshot of Completed Website
 ```md
