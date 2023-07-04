@@ -10,9 +10,10 @@ First Challenge Homework for week one
 
 ## Link to website
 
-## Screenshot 
-    ![alt= Screenshot of deployed website showing the completed work for Horiseon Challenge.](./assets/assets%20images/Screenshot_horiseon.png)
-
+## Screenshot of Completed Website
+```md
+[alt=Screenshot of completed website for Horiseon challenge]()./assets/assets%20images/Screenshot_horiseon.png)
+```
 ## Contributors 
 - University of Denver Bootcamp (original code provided)
 
