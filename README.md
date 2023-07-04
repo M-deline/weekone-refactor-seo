@@ -11,8 +11,10 @@ First Challenge Homework for week one
 ## Link to website
 
 ## Screenshot 
-    ```md
-    ![alt= Screenshot of deployed website showing the completed work for Horiseon Challenge.](assets/images/screenshots_horiseon.png)
-    ```
+    ![alt= Screenshot of deployed website showing the completed work for Horiseon Challenge.](./assets/assets%20images/Screenshot_horiseon.png)
+
 ## Contributors 
-- University of Denver Bootcamp 
+- University of Denver Bootcamp (original code provided)
+
+## Contact
+[Madeline Kovanda's Github] (https://github.com/M-deline)
