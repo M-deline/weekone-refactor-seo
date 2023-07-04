@@ -12,7 +12,7 @@ First Challenge Homework for week one
 
 ## Screenshot of Completed Website
 ```md
-![Alt text: Screenshot of completed webpage for Horiseon challenge]
+[Screenshot of completed webpage for Horiseon challenge]
 ```
 ![Screenshot_horiseon](https://github.com/M-deline/weekone-refactor-seo/assets/134882025/acc6f6ad-730f-4d3d-a6f6-bebeca249ac7)
 
